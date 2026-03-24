@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "mintext-datagrid-client-side-solution",
+    "id": "c5dfbe4d-404c-48b5-b5d6-6883f19dae41",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "mintext-datagrid description"
+      },
+      "longDescription": {
+        "default": "mintext-datagrid description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "mintext-datagrid Feature",
+        "description": "The feature that activates elements of the mintext-datagrid solution.",
+        "id": "fffe0e59-ff88-4fba-8253-ac59f2a10720",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/mintext-datagrid.sppkg"
+  }
+}
